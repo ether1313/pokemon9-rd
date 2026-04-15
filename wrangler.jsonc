@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "trustpilot-redirect",
+  "name": "pokemon9-rd",
   "compatibility_date": "2026-04-14",
   "assets": {
     "directory": "public"
